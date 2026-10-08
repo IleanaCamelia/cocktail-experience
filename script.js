@@ -5,9 +5,9 @@
 // YouTube video IDs (the part after "watch?v=" in the link).
 // Leave "" to show only the photo.
 const VIDEOS = {
-  cristian: "cbU6INpCo7s",
-  camelia: "cbU6INpCo7s",
-  claudiu: "cbU6INpCo7s"
+  cristian: "8MnCliPXBrk",
+  camelia: "8MnCliPXBrk",
+  claudiu: "8MnCliPXBrk"
 };
 
 // Contact details. Leave "" to hide that item.
